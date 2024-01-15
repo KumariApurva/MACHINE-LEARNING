@@ -22,7 +22,7 @@ version= '0.0.1',
 author= 'kumari apurva',
 author_email='apurvavermaprinces@gmail.com',
 packages= find_packages(),
-install_requires=get_requirements('requirements.txt')
+install_requires=get_requirements('requirement.txt')
 
 )
 
